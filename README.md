@@ -21,7 +21,7 @@
 I'm always open to collaborating on exciting projects and innovative ideas. If you're looking for a dedicated and creative developer to join your team, let's connect!
 
 ## 📫 How to Reach Me
-- *Email:* Aarohiparasar@gmail.com
+- *Email:* aarohisinghparasar29@gmail.com
 
 <div align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="dash" />
@@ -29,7 +29,7 @@ I'm always open to collaborating on exciting projects and innovative ideas. If y
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vikram-kumar-choudhary/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikram-kumar-choudhary/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aarohi-singh-047639315/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikram-kumar-choudhary/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
